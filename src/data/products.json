@@ -1,0 +1,572 @@
+{
+  "perifericos": {
+    "volantes": [
+      {
+        "id": 1,
+        "nombre": "Volante Logitech G923",
+        "precio": "$309.990",
+        "imagen": "https://www.thrustmaster.com/wp-content/uploads/2025/08/website_PageProduit_Listing-T98Ferrari296GTS-800x800-1-300x300.png",
+        "descripcion": "Volante Logitech G923 PS4/PS5/PC",
+        "disponible": true,
+        "categoria": "Gaming",
+        "modelo": "G923",
+        "vendedor": "Logitech"
+      },
+      {
+        "id": 2,
+        "nombre": "Volante Thrustmaster T98 Ferrari 296 GTS",
+        "precio": "$95.990",
+        "imagen": "https://www.thrustmaster.com/wp-content/uploads/2025/08/website_PageProduit_Listing-T98Ferrari296GTS-800x800-1-300x300.png",
+        "descripcion": "Volante Thrustmaster T98 Ferrari 296 GTS",
+        "disponible": true,
+        "categoria": "Gaming",
+        "modelo": "T98 Ferrari 296 GTS",
+        "vendedor": "Thrustmaster"
+      },
+      {
+        "id": 3,
+        "nombre": "Volante Logitech G29",
+        "precio": "$309.990",
+        "imagen": "https://media.falabella.com/falabellaCL/137125170_01/",
+        "descripcion": "Volante Logitech G29 PS4/PS5/PC",
+        "disponible": true,
+        "categoria": "Gaming",
+        "modelo": "G29",
+        "vendedor": "Logitech"
+      },
+      {
+        "id": 4,
+        "nombre": "Volante de Carreras Genérico",
+        "precio": "$60.990",
+        "imagen": "https://media.falabella.com/falabellaCL/145536824_01/",
+        "descripcion": "Volante de Carreras de Marca Generica",
+        "disponible": true,
+        "categoria": "Budget",
+        "modelo": "Generico",
+        "vendedor": "GenericStore"
+      }
+    ],
+    "teclados": [
+      {
+        "id": 5,
+        "nombre": "Teclado Gamer Monster Inception",
+        "precio": "$9.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/4/5/4583234580129.jpg",
+        "descripcion": "Teclado Gamer Monster Inception",
+        "disponible": true,
+        "categoria": "Budget",
+        "modelo": "Gamer",
+        "vendedor": "Monster"
+      },
+      {
+        "id": 6,
+        "nombre": "Teclado ReDragon Ziggs",
+        "precio": "$40.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/6/9/69503767219212.jpeg",
+        "descripcion": "Teclado ReDragon Ziggs",
+        "disponible": true,
+        "categoria": "Gaming",
+        "modelo": "Ziggs",
+        "vendedor": "ReDragon"
+      },
+      {
+        "id": 7,
+        "nombre": "Teclado Gaming G015",
+        "precio": "$45.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/0/9/0978550973470_1.jpeg",
+        "descripcion": "Teclado Gaming G015",
+        "disponible": true,
+        "categoria": "Gaming",
+        "modelo": "G015",
+        "vendedor": "Logitech"
+      },
+      {
+        "id": 8,
+        "nombre": "Teclado Mecanico Gamer ReDragon Kumara White",
+        "precio": "$42.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/6/9/69503767753204.jpeg",
+        "descripcion": "Teclado Mecanico Gamer ReDragon Kumara White",
+        "disponible": true,
+        "categoria": "Gaming",
+        "modelo": "Kumara White",
+        "vendedor": "ReDragon"
+      }
+    ],
+    "controles": [
+      {
+        "id": 9,
+        "nombre": "Control Inalámbrico DualSense Cobalt Blue",
+        "precio": "$79.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/4bcda33d93c6ef8a12ee2390da45ff53/7/1/711719572688-01.jpg",
+        "descripcion": "Control Inalámbrico DualSense Cobalt Blue (Ps5)",
+        "disponible": true,
+        "categoria": "PlayStation",
+        "modelo": "DualSense",
+        "vendedor": "PlayStation"
+      },
+      {
+        "id": 10,
+        "nombre": "Control Inalámbrico DualSense Chroma Pearl",
+        "precio": "$89.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/4bcda33d93c6ef8a12ee2390da45ff53/7/1/7117195875833.jpeg",
+        "descripcion": "Control Inalámbrico DualSense Chroma Pearl (Ps5)",
+        "disponible": true,
+        "categoria": "PlayStation",
+        "modelo": "DualSense",
+        "vendedor": "PlayStation"
+      },
+      {
+        "id": 11,
+        "nombre": "Control Inalámbrico DualSense Gray Camo",
+        "precio": "$65.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/7/1/711719555193-01.jpg",
+        "descripcion": "Control Inalámbrico DualSense Gray Camo (Ps5)",
+        "disponible": true,
+        "categoria": "PlayStation",
+        "modelo": "DualSense",
+        "vendedor": "PlayStation"
+      },
+      {
+        "id": 12,
+        "nombre": "Control Inalámbrico DualSense Cosmic Red",
+        "precio": "$69.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/7/1/7117195469480_1.jpeg",
+        "descripcion": "Control Inalámbrico DualSense Cosmic Red (Ps5)",
+        "disponible": true,
+        "categoria": "PlayStation",
+        "modelo": "DualSense",
+        "vendedor": "PlayStation"
+      }
+    ],
+    "audifonos": [
+      {
+        "id": 13,
+        "nombre": "Audifonos Gamer BlackShark V2 X White",
+        "precio": "$49.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/4bcda33d93c6ef8a12ee2390da45ff53/8/8/8886419379843-01.jpg",
+        "descripcion": "Audifonos Gamer BlackShark V2 X White Rizen",
+        "disponible": true,
+        "categoria": "Gaming",
+        "modelo": "BlackShark V2 X White",
+        "vendedor": "Rizen"
+      },
+      {
+        "id": 14,
+        "nombre": "Audifonos Gamer G733 LightSpeed Wireless RGB - Black",
+        "precio": "$139.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/4bcda33d93c6ef8a12ee2390da45ff53/0/9/097855155580-1.jpg",
+        "descripcion": "Audifonos Gamer G733 LightSpeed Wireless RGB - Black",
+        "disponible": true,
+        "categoria": "Premium",
+        "modelo": "G733 LightSpeed Wireless RGB - Black",
+        "vendedor": "Logitech"
+      },
+      {
+        "id": 15,
+        "nombre": "Audífonos Gamer Monster Snap",
+        "precio": "$12.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/4bcda33d93c6ef8a12ee2390da45ff53/4/5/4598721887773-1.jpg",
+        "descripcion": "Audífonos Gamer Monster Snap",
+        "disponible": true,
+        "categoria": "Budget",
+        "modelo": "Monster Snap",
+        "vendedor": "Monster"
+      },
+      {
+        "id": 16,
+        "nombre": "Audífonos Barracuda X",
+        "precio": "$126.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/4bcda33d93c6ef8a12ee2390da45ff53/8/8/8886419379867-01.jpg",
+        "descripcion": "Audífonos Barracuda X",
+        "disponible": true,
+        "categoria": "Premium",
+        "modelo": "Barracuda X",
+        "vendedor": "Generic"
+      }
+    ],
+    "mouse": [
+      {
+        "id": 17,
+        "nombre": "Mouse Wireless M280 Grey",
+        "precio": "$12.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/0/9/0978551074420_1.jpeg",
+        "descripcion": "Mouse Wireless M280 Grey",
+        "disponible": true,
+        "categoria": "Budget",
+        "modelo": "M280 Grey",
+        "vendedor": "Generic"
+      },
+      {
+        "id": 18,
+        "nombre": "Mouse Razer DeathAdder Essential Black Edition",
+        "precio": "$18.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/8/8/88864193323980_2.jpeg",
+        "descripcion": "Mouse Razer DeathAdder Essential Black Edition",
+        "disponible": true,
+        "categoria": "Gaming",
+        "modelo": "DeathAdder Essential Black Edition",
+        "vendedor": "Razer"
+      },
+      {
+        "id": 19,
+        "nombre": "Mouse ReDragon Predator",
+        "precio": "$15.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/6/9/69503767800582.jpeg",
+        "descripcion": "Mouse ReDragon Predator",
+        "disponible": true,
+        "categoria": "Gaming",
+        "modelo": "Predator",
+        "vendedor": "ReDragon"
+      },
+      {
+        "id": 20,
+        "nombre": "Mouse G309 White",
+        "precio": "$79.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/g/3/g309_w-01.jpg",
+        "descripcion": "Mouse G309 White",
+        "disponible": true,
+        "categoria": "Premium",
+        "modelo": "G309 White",
+        "vendedor": "Logitech"
+      }
+    ]
+  },
+  "consolas": {
+    "playstation": [
+      {
+        "id": 21,
+        "nombre": "Consola Sony PlayStation 4 God Of War Ragnarok 1TB",
+        "precio": "$389.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/1/_/1_13.jpg",
+        "descripcion": "PlayStation 4 God Of War Ragnarok 1TB",
+        "disponible": true,
+        "categoria": "PlayStation 4",
+        "modelo": "PlayStation 4",
+        "vendedor": "PlayStation"
+      },
+      {
+        "id": 22,
+        "nombre": "Consola Sony PlayStation 5 Slim Digital + 2 Juegos",
+        "precio": "$529.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/7/1/7117195708203.jpeg",
+        "descripcion": "PlayStation 5 Slim Digital + 2 Juegos",
+        "disponible": true,
+        "categoria": "PlayStation 5",
+        "modelo": "PlayStation 5 Slim Digital",
+        "vendedor": "PlayStation"
+      },
+      {
+        "id": 23,
+        "nombre": "Consola Sony PlayStation 5 Slim Digital 30th Anniversary Edition",
+        "precio": "$659.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/4/9/49488724165421.jpeg",
+        "descripcion": "PlayStation 5 Slim Digital 30th Anniversary Edition",
+        "disponible": true,
+        "categoria": "PlayStation 5",
+        "modelo": "PlayStation 5 Slim Digital 30th Anniversary Edition",
+        "vendedor": "PlayStation"
+      },
+      {
+        "id": 24,
+        "nombre": "Consola Sony PlayStation 5 Slim",
+        "precio": "$559.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/4/9/49488724159340.jpeg",
+        "descripcion": "PlayStation 5 Slim",
+        "disponible": true,
+        "categoria": "PlayStation 5",
+        "modelo": "PlayStation 5 Slim",
+        "vendedor": "PlayStation"
+      }
+    ],
+    "portable": [
+      {
+        "id": 25,
+        "nombre": "Steam Deck 512GB",
+        "precio": "$799.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/8/1/814585021356.jpg",
+        "descripcion": "Steam Deck 512GB",
+        "disponible": true,
+        "categoria": "Handheld",
+        "modelo": "Steam Deck",
+        "vendedor": "Steam"
+      },
+      {
+        "id": 26,
+        "nombre": "ASUS ROG Ally 512GB",
+        "precio": "$679.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/1/9/197105131057-01.jpg",
+        "descripcion": "ASUS ROG Ally 512GB",
+        "disponible": true,
+        "categoria": "Handheld",
+        "modelo": "ROG Ally",
+        "vendedor": "ASUS"
+      }
+    ],
+    "xbox": [
+      {
+        "id": 27,
+        "nombre": "Xbox Series X",
+        "precio": "$599.990",
+        "imagen": "https://cms-assets.xboxservices.com/assets/bc/40/bc40fdf3-85a6-4c36-af92-dca2d36fc7e5.png?n=642227_Hero-Gallery-0_A1_857x676.png",
+        "descripcion": "Xbox Series X",
+        "disponible": true,
+        "categoria": "Xbox Series",
+        "modelo": "Series X",
+        "vendedor": "Xbox"
+      },
+      {
+        "id": 28,
+        "nombre": "Xbox Series S",
+        "precio": "$429.990",
+        "imagen": "https://cms-assets.xboxservices.com/assets/bf/b0/bfb06f23-4c87-4c58-b4d9-ed25d3a739b9.png?n=389964_Hero-Gallery-0_A1_857x676.png",
+        "descripcion": "Xbox Series S",
+        "disponible": true,
+        "categoria": "Xbox Series",
+        "modelo": "Series S",
+        "vendedor": "Xbox"
+      },
+      {
+        "id": 29,
+        "nombre": "Xbox One X",
+        "precio": "$329.990",
+        "imagen": "https://assets.xboxservices.com/assets/5f/71/5f718c07-e06f-41a4-b459-91d930f20135.jpg?n=X1X_Image_0_Console_1920x660.jpg",
+        "descripcion": "Xbox One X",
+        "disponible": true,
+        "categoria": "Xbox One",
+        "modelo": "One X",
+        "vendedor": "Xbox"
+      },
+      {
+        "id": 30,
+        "nombre": "Xbox 360 Slim",
+        "precio": "$269.990",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_846331-MLC83464117845_042025-F-microsoft-xbox-360-slim-1-tera-rgh-32-y-retroarch.webp",
+        "descripcion": "Xbox 360 Slim",
+        "disponible": true,
+        "categoria": "Xbox 360",
+        "modelo": "360 Slim",
+        "vendedor": "Xbox"
+      }
+    ],
+    "nintendo": [
+      {
+        "id": 31,
+        "nombre": "Consola Nintendo Switch Neon",
+        "precio": "$259.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/s/w/switchneon.jpg",
+        "descripcion": "Consola Nintendo Switch Neon",
+        "disponible": true,
+        "categoria": "Nintendo Switch",
+        "modelo": "Nintendo Switch Neon",
+        "vendedor": "Nintendo"
+      },
+      {
+        "id": 32,
+        "nombre": "Consola Nintendo Switch Lite Hyrule Edition",
+        "precio": "$209.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/p/v/pvcnslhe3.jpeg",
+        "descripcion": "Nintendo Switch Neon",
+        "disponible": true,
+        "categoria": "Nintendo Switch Lite",
+        "modelo": "Nintendo Switch Lite Hyrule Edition",
+        "vendedor": "Nintendo"
+      },
+      {
+        "id": 33,
+        "nombre": "Consola Nintendo Switch OLED - Blanco",
+        "precio": "$309.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/0/4/045496883393.jpg",
+        "descripcion": "Consola Nintendo Switch OLED - Blanco",
+        "disponible": true,
+        "categoria": "Nintendo Switch OLED",
+        "modelo": "Nintendo Switch OLED - Blanco",
+        "vendedor": "Nintendo"
+      },
+      {
+        "id": 34,
+        "nombre": "Consola Nintendo Switch 2 + Pokémon Legends: Z-A",
+        "precio": "$599.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/4/5/45496885571-01.jpg",
+        "descripcion": "Consola Nintendo Switch 2 + Pokémon Legends: Z-A",
+        "disponible": true,
+        "categoria": "Nintendo Switch 2",
+        "modelo": "Nintendo Switch 2",
+        "vendedor": "Nintendo"
+      }
+    ]
+  },
+  "juegos": {
+    "ps5": [
+      {
+        "id": 35,
+        "nombre": "Assassins Creed Shadows",
+        "precio": "$12.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/8/8/8872561162864.jpeg",
+        "descripcion": "Assassins Creed Shadows",
+        "disponible": true,
+        "categoria": "Acción",
+        "modelo": "PS5 Game",
+        "vendedor": "Sony"
+      },
+      {
+        "id": 36,
+        "nombre": "Spiderman Miles Morales",
+        "precio": "$39.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/p/s/ps5_spiderman-miles.jpg",
+        "descripcion": "Spiderman Miles Morales",
+        "disponible": true,
+        "categoria": "Acción",
+        "modelo": "PS5 Game",
+        "vendedor": "Sony"
+      },
+      {
+        "id": 37,
+        "nombre": "Gran Turismo 7",
+        "precio": "$49.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/7/1/711719541400_1.jpg",
+        "descripcion": "Gran Turismo 7",
+        "disponible": true,
+        "categoria": "Carreras",
+        "modelo": "PS5 Game",
+        "vendedor": "Sony"
+      },
+      {
+        "id": 38,
+        "nombre": "Persona 3 Reload",
+        "precio": "$19.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3135f28587838cb58c30c8a955a56da9/7/3/730865220694-01.jpg",
+        "descripcion": "Persona 3 Reload",
+        "disponible": true,
+        "categoria": "RPG",
+        "modelo": "PS5 Game",
+        "vendedor": "Sony"
+      },
+      {
+        "id": 39,
+        "nombre": "Yakuza 0 Director's Cut Switch 2",
+        "precio": "$64.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/0/1/0100867703914.jpeg",
+        "descripcion": "Yakuza 0 Director's Cut Switch 2",
+        "disponible": true,
+        "categoria": "Nintendo Switch 2",
+        "modelo": "Nintendo Switch 2",
+        "vendedor": "Nintendo"
+      },
+      {
+        "id": 40,
+        "nombre": "Rune Factory Guardians of Azume Switch 2",
+        "precio": "$84.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/8/5/8500622422893.jpeg",
+        "descripcion": "Rune Factory Guardians of Azume Switch 2",
+        "disponible": true,
+        "categoria": "RPG",
+        "modelo": "Nintendo Switch 2",
+        "vendedor": "Nintendo"
+      },
+      {
+        "id": 41,
+        "nombre": "Ratchet & Clank: Rift Apart PS5",
+        "precio": "$64.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/p/s/ps5_ratchet_clan.jpg",
+        "descripcion": "Ratchet & Clank: Rift Apart PS5",
+        "disponible": true,
+        "categoria": "Acción",
+        "modelo": "PS5 Game",
+        "vendedor": "Sony"
+      },
+      {
+        "id": 42,
+        "nombre": "Deathloop PS5",
+        "precio": "$24.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/d/e/deathloop_ps5.jpg",
+        "descripcion": "Deathloop PS5",
+        "disponible": true,
+        "categoria": "Acción",
+        "modelo": "PS5 Game",
+        "vendedor": "Sony"
+      },
+      {
+        "id": 43,
+        "nombre": "Shin Megami Tensei V: Vengeance PS5",
+        "precio": "$69.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/0/7/0730865220786-01.jpg",
+        "descripcion": "Shin Megami Tensei V: Vengeance PS5",
+        "disponible": true,
+        "categoria": "JRPG",
+        "modelo": "PS5 Game",
+        "vendedor": "Sony"
+      },
+      {
+        "id": 44,
+        "nombre": "Elden Ring Shadow of The Erdtree XBS",
+        "precio": "$79.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/7/2/722674550048-01.jpg",
+        "descripcion": "Elden Ring Shadow of The Erdtree XBS",
+        "disponible": true,
+        "categoria": "RPG",
+        "modelo": "Xbox Series",
+        "vendedor": "Xbox"
+      },      {
+        "id": 45,
+        "nombre": "Dragon Ball Sparking! ZERO XBS",
+        "precio": "$74.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/7/2/722674240574-01.jpg",
+        "descripcion": "Dragon Ball Sparking! ZERO XBS",
+        "disponible": true,
+        "categoria": "Lucha",
+        "modelo": "Xbox Series",
+        "vendedor": "Xbox"
+      },      {
+        "id": 46,
+        "nombre": "SChivalry 2 Xbox One",
+        "precio": "$34.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/8/1/8168190182930_2.jpeg",
+        "descripcion": "Chivalry 2 Xbox One",
+        "disponible": true,
+        "categoria": "Hack and Slash",
+        "modelo": "Xbox One",
+        "vendedor": "Xbox"
+      },      {
+        "id": 47,
+        "nombre": "Robocop: Rogue City XBS",
+        "precio": "$64.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/8/1/814290018849-01.jpg",
+        "descripcion": "Robocop: Rogue City XBS",
+        "disponible": true,
+        "categoria": "FPS",
+        "modelo": "Xbox Series",
+        "vendedor": "Xbox"
+      },      {
+        "id": 48,
+        "nombre": "Avatar: Frontiers of Pandora XBS",
+        "precio": "$74.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/8/8/887256113537-01.jpg",
+        "descripcion": "Avatar: Frontiers of Pandora XBS",
+        "disponible": true,
+        "categoria": "Aventura",
+        "modelo": "Xbox Series",
+        "vendedor": "Xbox"
+      },      {
+        "id": 49,
+        "nombre": "Mortal Kombat 1 Premium Edition XBS",
+        "precio": "$119.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/p/v/pvmk1pexbs-01.jpg",
+        "descripcion": "Mortal Kombat 1 Premium Edition XBS",
+        "disponible": true,
+        "categoria": "lucha",
+        "modelo": "Xbox Series",
+        "vendedor": "Xbox"
+      },      {
+        "id": 50,
+        "nombre": "Payday 3 XBS",
+        "precio": "$42.990",
+        "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/8/1/810086922406-01.jpg",
+        "descripcion": "Payday 3 XBS",
+        "disponible": true,
+        "categoria": "FPS",
+        "modelo": "Xbox Series",
+        "vendedor": "Xbox"
+      }
+    ]
+  }
+}
